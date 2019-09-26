@@ -18,6 +18,7 @@ That basic system can exist on its own amongst a "small" community.
 As long as I personally know or trust a given public key (say, I know you personally, or there is a large merchant that I frequent).. any stranger who presents a bag of resolved attestations (that are signed by that public key pointing to their public key).. I know a few things:
 ```
     1. I know how long it took to resolve their "debts".
+
     2. I know the period of time these interactions occurred during.
 ```
 What do we NOT have to worry about?
